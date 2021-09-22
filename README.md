@@ -8,7 +8,8 @@ The preprint version of this paper is available at SSRN: https://ssrn.com/abstra
 Inside of this repository you can find:
 - *The data generated for the experimnents in the paper.*
 - *The code to generate optimal age-based policies under given parameter.*
-- *A user interface where data can be accessed by the end-user.*
+- *A user interface developed as an R shiny app where data can be accessed by the end-user.*
+- *A manual for the user interface.*
 
 ## Content of Repository
 

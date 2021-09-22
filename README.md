@@ -2,7 +2,7 @@
 # Age-based Maintenance under Population Heterogeneity: Optimal Exploration and Exploitation
 
 Data and codes for the paper Age-Based Maintenance under Population Heterogeneity: Optimal Exploration and Exploitation, Dursun, Ipek and Akçay, Alp and van Houtum, Geert-Jan,  (2021). 
-The preprint version of this papar is available at SSRN: https://ssrn.com/abstract=3871676 or http://dx.doi.org/10.2139/ssrn.3871676 
+The preprint version of this paper is available at SSRN: https://ssrn.com/abstract=3871676 or http://dx.doi.org/10.2139/ssrn.3871676 
 
 ## Introduction
 Inside of this repository you can find:

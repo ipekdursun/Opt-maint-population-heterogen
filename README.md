@@ -34,10 +34,10 @@ Part B is for generating state transition data based on a given distribution. We
 **R** (Software for Statistical Computing): These codes are supported by R version 4.0.5. 
 
 The following R packages are used in the development of the optimal age-based maintenance algorithm:
- ‘dplyr’, ‘plyr’, ‘data.table’. 
+ `dplyr`, `plyr`, `data.table`. 
 
 The following R packages are used in the user interface: 
-‘shiny’, ‘shinydashboard’,  ‘dplyr’, ‘plyr’, ‘ggplot2’, ‘callr’, ‘shinyBS’, ‘shinyWidgets’, ‘DT’, ‘data.table’. 
+`shiny`, `shinydashboard`,  `dplyr`, `plyr`, `ggplot2`, `callr`, `shinyBS`, `shinyWidgets`, `DT`, `data.table`. 
 
 You can contact to Ipek (i.dursun@tue.nl) for your questions of you encounter any issues.
 

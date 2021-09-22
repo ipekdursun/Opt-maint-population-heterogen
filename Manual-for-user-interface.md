@@ -1,9 +1,8 @@
 This decision support tool allows user to determine some distributional parameters and cost parameter and plots the structure of optimal policy and cost under given parameters. So it gives user an overview of the general actions through the lifespan of a system. This is done in ‘Parameter Selection’ of the tool. Please see Figure 1 for this tab. Without pressing to ‘Submit’ button on this tab, the other tabs do not work either. There are two plots in this tab: ‘Optimal Cost’ and ‘Optimal Action’.
 For each belief and remaining lifespan, ‘Optimal Cost’ plot shows expected total cost until the end of lifespan of the system and ‘Optimal Action’ plot shows the optimal next planned maintenance time for that belief and remaining lifespan. 
 <p align="center">
-
-![image1](https://user-images.githubusercontent.com/41290925/134365719-23f04a1d-5f6d-4584-af6e-542c9d9a892e.png)
-
+<img src=https://user-images.githubusercontent.com/41290925/134365719-23f04a1d-5f6d-4584-af6e-542c9d9a892e.png>
+<br><br>
 Figure 1: Parameter Selection Tab
 </p>
 
@@ -11,7 +10,7 @@ The aim of these plots to show how general structure looks like under the curren
 ‘Decision Making’ tab of the tool provides the next optimal replacement age and associated cost with that action under a given belief about the type of population and remaining lifespan of the system. You can see a view of tab in Figure 2.
 
 <p align="center">
-![image2](<img src=https://user-images.githubusercontent.com/41290925/134365757-702128fd-0681-433b-90c0-01c6da1c4972.png>)
+<img src=https://user-images.githubusercontent.com/41290925/134365757-702128fd-0681-433b-90c0-01c6da1c4972.png>
 <br><br>
 Figure 2: Decision Making Tab
 </p>

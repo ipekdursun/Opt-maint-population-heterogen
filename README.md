@@ -13,6 +13,7 @@ Inside of this repository you can find:
 ## Content of Repository
 
 The codes should be run in the following order:
+'setup.R': This file contains the packages that must be installed before running the other R codes. 
 
 'Part0-Functions.R': Functions that are needed to upload to R before running Part 1 and Part 2. 
 

@@ -1,3 +1,5 @@
+# Manual for User Interface
+
 This decision support tool allows user to determine some distributional parameters and cost parameter and plots the structure of optimal policy and cost under given parameters. So it gives user an overview of the general actions through the lifespan of a system. This is done in ‘Parameter Selection’ of the tool. Please see Figure 1 for this tab. Without pressing to ‘Submit’ button on this tab, the other tabs do not work either. There are two plots in this tab: ‘Optimal Cost’ and ‘Optimal Action’.
 For each belief and remaining lifespan, ‘Optimal Cost’ plot shows expected total cost until the end of lifespan of the system and ‘Optimal Action’ plot shows the optimal next planned maintenance time for that belief and remaining lifespan. 
 <p align="center">

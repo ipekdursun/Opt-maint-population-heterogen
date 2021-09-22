@@ -46,5 +46,5 @@ Realized_cycle_cost: Real cost incurred according to the realized replacement. I
 Updated_belief: Update of ‘Belief’ under ‘Replacement_time’ and ‘Replacement_type’ information. 
 
 updated_lifespan: Update of ‘Lifespan’under ‘Replacement_time’.
-It is possible to download or use this data for further analysis about the replacement activities or failure behavior. It can be downloaded in .csv or .Rdata format. The download formats can be tailored to the needs of user. 
+It is possible to download or use this data for further analysis about the replacement activities or failure behavior. Data is automatically saved to the working directory. 
 

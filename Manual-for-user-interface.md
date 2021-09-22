@@ -11,7 +11,7 @@ The aim of these plots to show how general structure looks like under the curren
 ‘Decision Making’ tab of the tool provides the next optimal replacement age and associated cost with that action under a given belief about the type of population and remaining lifespan of the system. You can see a view of tab in Figure 2.
 
 <p align="center">
-![image2](https://user-images.githubusercontent.com/41290925/134365757-702128fd-0681-433b-90c0-01c6da1c4972.png)
+![image2](<img src=https://user-images.githubusercontent.com/41290925/134365757-702128fd-0681-433b-90c0-01c6da1c4972.png>)
 <br><br>
 Figure 2: Decision Making Tab
 </p>

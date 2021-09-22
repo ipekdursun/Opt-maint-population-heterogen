@@ -2,7 +2,8 @@ library(dplyr)
 library(plyr)
 library(foreach)
 library(data.table)
-#generating States states
+#Part A
+#generating States 
 L=200
 increment=1
 p_increment<-0.00005
@@ -28,14 +29,16 @@ data_space=do.call(rbind,dat)
 
 data_space<-as.matrix(data_space)
 
-#You can save the state space here
+save.image(file='data_space.Rdata')
 
-#Generating data regarding to given distribution
+#Part B
+#Generating state transition data based on time-to-failure dist.
 
 #Discrete Weibull Distribution parameters
 alpha=5 #Shape parameter
 beta_1=10 #Scale parameter for weak population
 beta_2=20 #Scale parameter for strong population
+
 source(file = 'Functions.R')
 data_space<-as.matrix(data_space)
 
@@ -81,7 +84,7 @@ nextCMstate<-nextCMstate_2(1:nrow(data_space))
 
 
 save.image(file=paste0('data_space_2_',L,"_",alpha,'.Rdata'))
-#Generating data with given costs
+#Part C: Generating immediate cost data with given costs parameters
 C_f=1 #Corrective maintenance cost
 C_p=0.1 #Preventive maintenance cost. You can change this parameter as you wish
 

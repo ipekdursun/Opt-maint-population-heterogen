@@ -11,6 +11,7 @@ Inside of this repository you can find:
 - *A user interface where data can be accessed by the end-user.*
 
 ## Content of Repository
+
 The codes should be run in the following order:
 
 'Part0-Functions.R': Functions that are needed to upload to R before running Part 1 and Part 2. 

@@ -111,15 +111,15 @@ ui <- dashboardPage(
   
   tabItem(tabName = "data_table",
           h2("Historical Replacement Data"),
-  actionButton('savecsv', 'Download the data in .csv format'),
-  actionButton('saverdata', 'Download the data in .Rdata format'),
+  #actionButton('savecsv', 'Download the data in .csv format'),
+  #actionButton('saverdata', 'Download the data in .Rdata format'),
   DT::dataTableOutput("responses", width = 300),
   actionButton("remove", "Clear the table permanently"),
   bsModal("warning", "Warning!", "remove",
           p("If you clear the table permanently and did not downloaded the data beforehand, you will lose this information permanently. Do you agree with continuing?"),
           actionButton("BUTyes", "Yes"),
           actionButton("BUTno", "No")),
-  checkboxInput(inputId = 'compile','Do you want to generate your own dataset? It may take longer.'),
+  #checkboxInput(inputId = 'compile','Do you want to generate your own dataset? It may take longer.'),
   mainPanel(textOutput('sum'))
     ))))
 

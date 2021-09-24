@@ -40,6 +40,9 @@ The following R packages are used in the development of the optimal age-based ma
 The following R packages are used in the user interface: 
 `shiny`, `shinydashboard`,  `dplyr`, `plyr`, `ggplot2`, `callr`, `shinyBS`, `shinyWidgets`, `DT`, `data.table`. 
 
+You can cite our work as:
+`Dursun, Ipek and Akçay, Alp and van Houtum, Geert-Jan, Age-Based Maintenance under Population Heterogeneity: Optimal Exploration and Exploitation (June 22, 2021). Available at SSRN: https://ssrn.com/abstract=3871676 or http://dx.doi.org/10.2139/ssrn.3871676`
+
 You can contact to Ipek (i.dursun@tue.nl) for your questions of you encounter any issues.
 
 ## References to software dependencies:

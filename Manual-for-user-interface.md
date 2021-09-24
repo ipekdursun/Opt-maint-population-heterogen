@@ -1,5 +1,11 @@
 # Manual for User Interface
 
+<p align="center">
+https://user-images.githubusercontent.com/41290925/134673452-bef79276-97cc-47d1-95ab-e4f62cd13128.mp4
+<br><br>
+Video 1: A video of the demonstration for the user interface
+</p>
+
 This decision support tool allows user to determine some distributional parameters and cost parameter and plots the structure of optimal policy and cost under given parameters. So it gives user an overview of the general actions through the lifespan of a system. This is done in ‘Parameter Selection’ of the tool. Please see Figure 1 for this tab. Without pressing to ‘Submit’ button on this tab, the other tabs do not work either. There are two plots in this tab: ‘Optimal Cost’ and ‘Optimal Action’.
 For each belief and remaining lifespan, ‘Optimal Cost’ plot shows expected total cost until the end of lifespan of the system and ‘Optimal Action’ plot shows the optimal next planned maintenance time for that belief and remaining lifespan. 
 <p align="center">
@@ -47,4 +53,8 @@ Updated_belief: Update of ‘Belief’ under ‘Replacement_time’ and ‘Repla
 
 updated_lifespan: Update of ‘Lifespan’under ‘Replacement_time’.
 It is possible to download or use this data for further analysis about the replacement activities or failure behavior. Data is automatically saved to the working directory. 
+
+
+
+
 

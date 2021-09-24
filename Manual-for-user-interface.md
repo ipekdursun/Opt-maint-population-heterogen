@@ -1,8 +1,7 @@
 # Manual for User Interface
 
-<p align="center">
 https://user-images.githubusercontent.com/41290925/134673452-bef79276-97cc-47d1-95ab-e4f62cd13128.mp4
-<br><br>
+<p align="center">
 Video 1: A video of the demonstration for the user interface
 </p>
 

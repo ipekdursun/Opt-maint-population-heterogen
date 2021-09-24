@@ -42,7 +42,7 @@ The following R packages are used in the user interface:
 
 You can contact to Ipek (i.dursun@tue.nl) for your questions of you encounter any issues.
 
-# References to Software dependencies:
+## References to software dependencies:
 
 [1] R Core Team (2019). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL: https://www.R-project.org/.
 

@@ -1,9 +1,8 @@
 
 ## Age-based Maintenance under Population Heterogeneity: Optimal Exploration and Exploitation
 
-Data and codes for the paper Age-Based Maintenance under Population Heterogeneity: Optimal Exploration and Exploitation, Dursun, Ipek and Akçay, Alp and van Houtum, Geert-Jan,  (2021). 
-The preprint version of this paper is available at SSRN: https://ssrn.com/abstract=3871676 or http://dx.doi.org/10.2139/ssrn.3871676 
-
+Data and codes for the paper Age-Based Maintenance under Population Heterogeneity: Optimal Exploration and Exploitation, Dursun, İpek and Akçay, Alp and van Houtum, Geert-Jan,  (Available online 25 November 2021), In-Press, European Journal of Operational Research
+The online open-access version of this paper is available at https://www.sciencedirect.com/science/article/pii/S0377221721009899?via%3Dihub
 ## Introduction
 Inside of this repository you can find:
 - *The data generated for the experimnents in the paper.*
@@ -42,9 +41,10 @@ The following R packages are used in the user interface:
 
 You can cite our work as:
 
-Dursun, Ipek and Akçay, Alp and van Houtum, Geert-Jan, Age-Based Maintenance under Population Heterogeneity: Optimal Exploration and Exploitation (June 22, 2021). Available at SSRN: https://ssrn.com/abstract=3871676 or http://dx.doi.org/10.2139/ssrn.3871676
+İpek Dursun, Alp Akçay, Geert-Jan van Houtum, Age-based maintenance under population heterogeneity: Optimal exploration and exploitation,
+European Journal of Operational Research, 2021, ISSN 0377-2217, https://doi.org/10.1016/j.ejor.2021.11.038.
 
-You can contact to Ipek (i.dursun@tue.nl) for your questions of you encounter any issues.
+You can contact to İpek (i.dursun@tue.nl) for your questions of you encounter any issues.
 
 ## References to software dependencies:
 

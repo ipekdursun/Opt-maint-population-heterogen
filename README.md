@@ -7,6 +7,7 @@ Codes for the paper Age-Based Maintenance under Population Heterogeneity: Optima
 Inside of this repository you can find:
 
 - *The code to generate optimal age-based policies under given parameter.*
+- Disclaimer: Please use the code for your own risk. The code does not guarantee any security or reliability. It is shared only for the information.
 
 ## Content of Repository
 

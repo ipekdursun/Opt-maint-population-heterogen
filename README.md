@@ -1,7 +1,9 @@
 
 ## Age-based Maintenance under Population Heterogeneity: Optimal Exploration and Exploitation
 
-Codes for the paper Age-Based Maintenance under Population Heterogeneity: Optimal Exploration and Exploitation, Dursun, İpek and Akçay, Alp and van Houtum, Geert-Jan,  (Available online 25 November 2021), In-Press, European Journal of Operational Research
+Codes for the paper 
+İpek Dursun, Alp Akçay, Geert-Jan van Houtum, Age-based maintenance under population heterogeneity: Optimal exploration and exploitation,
+European Journal of Operational Research, 2021, ISSN 0377-2217, https://doi.org/10.1016/j.ejor.2021.11.038.
 
 ## Introduction
 Inside of this repository you can find:

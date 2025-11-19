@@ -46,7 +46,6 @@ You can cite our work as:
 İpek Dursun, Alp Akçay, Geert-Jan van Houtum, Age-based maintenance under population heterogeneity: Optimal exploration and exploitation,
 European Journal of Operational Research, 2021, ISSN 0377-2217, https://doi.org/10.1016/j.ejor.2021.11.038.
 
-You can contact to İpek (i.dursun@tue.nl) for your questions of you encounter any issues.
 
 ## References to software dependencies:
 
